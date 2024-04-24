@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">OOP Test</string>
+    <string name="main_title">Chanate bank</string>
+    <string name="main_button_new_client">New Client</string>
+    <string name="main_button_delete_client">Delete Client</string>
+    <string name="main_button_new_account">New Account</string>
+    <string name="main_button_delete_account">Delete Account</string>
+    <string name="main_button_deposit">Deposit</string>
+    <string name="main_button_withdraw">Withdraw</string>
+    <string name="main_button_see_client_accounts">See Client Accounts</string>
+    <string name="main_button_see_client_deposits">See Client Deposits</string>
+    <string name="main_button_see_client_withdraws">See Client Withdraws</string>
+    <string name="main_button_see_all_clients">See All Clients and Accounts</string>
+    <string name="main_button_see_all_accounts">See All Accounts</string>
+    <string name="main_button_see_all_requests">See All Requests</string>
+    <string name="main_button_see_all_deposits">See All Deposits</string>
+    <string name="main_button_see_all_withdraws">See All Withdraws</string>
+    <string name="main_button_exit">Exit</string>
+    <string name="button_cancel">Cancel</string>
+
+
+    //activity new client
+    <string name="new_client_title">Create new Client</string>
+    <string name="new_client_identity_key">Identity Key: </string>
+    <string name="new_client_first_name">First Name: </string>
+    <string name="new_client_last_names">Last Names: </string>
+    <string name="new_client_sex">Sex: </string>
+    <string name="new_client_man">Man </string>
+    <string name="new_client_woman">Woman </string>
+    <string name="new_client_age">Age: </string>
+    <string name="new_client_opening_balance">Opening balance: </string>
+    <string name="new_client_foreign">Foreign: </string>
+    <string name="new_client_nationality">Nationality: </string>
+    <string name="new_client_address">Address: </string>
+    <string name="new_client_empty" />
+    <string name="new_client_button_create">Create</string>
+    <string name="new_client_button_cancel">Cancel</string>
+    <string name="rb_true">Yes</string>
+    <string name="rb_false">No</string>
+
+
+    //activity delete client
+    <string name="delete_client_title">Delete Client</string>
+    <string name="delete_client_sub_title">Delete client and its accounts</string>
+    <string name="delete_client_button_delete">Delete</string>
+
+    //activity new account
+    <string name="new_account_title">New Account</string>
+    <string name="new_account_currency">Currency:</string>
+    <string name="new_account_currency_edit_text">MXN</string>
+
+
+    //activity delete account
+    <string name="delete_account_title">Delete Account</string>
+    <string name="delete_account_account_id">Account ID:</string>
+    <string name="delete_account_identity_key">Client Identity Key:</string>
+
+
+    //activity make deposit
+    <string name="make_deposit_title">Make deposit</string>
+    <string name="make_deposit_button_deposit">Deposit</string>
+    <string name="make_deposit_sender">Sender name: </string>
+    // button_cancel
+    // delete_account_identity_key
+    // delete_account_account_id
+    <string name="request_amount">Amount:</string>
+    <string name="request_foreign_currency">Foreign Currency:</string>
+
+
+    //activity make withdraw
+    <string name="make_withdraw_title">Make withdraw</string>
+    <string name="make_deposit_button_withdraw">Withdraw</string>
+    //button_cancel
+    // delete_account_identity_key
+    // delete_account_account_id
+    // request_amount
+
+
+    //see client accounts
+    <string name="see_clients_accounts_title">See Client Accounts</string>
+    <string name="see_clients_button_return">Return</string>
+    <string name="see_clients_button_see">See</string>
+    <string name="see_clients_accounts">Accounts:</string>
+    <string name="see_all_clients">Clients:</string>
+
+
+</resources>
